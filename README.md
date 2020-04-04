@@ -1,6 +1,5 @@
-# samaritan-app
-Community mobile app where people can freely donate food, cloths, and other items to those in need (who can't afford).
-
+# Samaritan mobile app
+Freely donate food, cloths, and other items to those in need (who can't afford):
 
 ## Why Samaritan
 **Throwing away food is like stealing from the poor, Pope Francis**. There are people out there suffering and in need of a days meal but due to one reason or the other, they can't have. 
