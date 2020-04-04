@@ -2,7 +2,7 @@
 Freely donate food, cloths, and other items to those in need (who can't afford):
 
 ## Why Samaritan
-**Throwing away food is like stealing from the poor, Pope Francis**. There are people out there suffering and in need of a days meal but due to one reason or the other, they can't have. 
+**"Throwing away food is like stealing from the table of those who are poor and hungry", Pope Francis**. There are people out there suffering and in need of a days meal but due to one reason or the other, they can't have. 
 But then, there are others leaving in great plentiful and even throwing away alot. 
 It doesn't end at food alone, it goes right to dresses, shows and other items which people may have in excess and are not using them. 
 
