@@ -3,7 +3,7 @@ Community mobile app where people can freely donate food, cloths, and other item
 
 
 ## Why Samaritan
-*Throwing away food is like stealing from the poor, Pope Francis*. There are people out there suffering and in need of a days meal but due to one reason or the other, they can't have. 
+**Throwing away food is like stealing from the poor, Pope Francis**. There are people out there suffering and in need of a days meal but due to one reason or the other, they can't have. 
 But then, there are others leaving in great plentiful and even throwing away alot. 
 It doesn't end at food alone, it goes right to dresses, shows and other items which people may have in excess and are not using them. 
 
@@ -22,7 +22,7 @@ This project is open source and we intend to keep it like that for it's entire l
 
 ## How do I join the 30 days challenge?
 We are doing a 30 days coding non stop to get the product out there so it can help share resources during the lockdown period caused by covid-19. 
-So to join, just leave a message on this issue and you will be added to the slack channel. 
+So to join, just leave a [message on this issue](https://github.com/DigitalRenter/samaritan-app/issues/1) and you will be added to the slack channel. 
 
 ## Rules for the 30 days challenge! 
 1. Be available for weekly meetings (Saturday 7pm GMT+1)
